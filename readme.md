@@ -3,7 +3,7 @@
 Repository for storing ideas as issues.
 
 Mainly an extension of #project_discussion so that ideas can be put under permanent storage until they are concretely implemented on each of their projects.  
-The rule of thumb is that "Abstract ideas" go here, some discussion happens here/discord and laterm as its matured it goes to the original project as a more concrete thing.    
+The rule of thumb is that "Abstract ideas" go here, some discussion happens here/discord and later its implemented on the project and closed here.    
 
 Format
 ---
